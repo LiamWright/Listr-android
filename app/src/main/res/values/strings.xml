@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Listr</string>
+    <string name="title">What do you want for dinner?</string>
+    <string name="selection_Title">Tonight, you will have:</string>
+    <string name="selectMealButton">Pick your meal</string>
+    <string name="viewAll_button">Show all meals</string>
 </resources>
