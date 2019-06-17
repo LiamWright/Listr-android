@@ -34,7 +34,7 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/button"
+            android:id="@+id/pickMealButton"
             tools:text="@string/selectMealButton" app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.123" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginBottom="288dp" app:layout_constraintBottom_toBottomOf="parent"
@@ -42,7 +42,7 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/button2" app:layout_constraintStart_toEndOf="@+id/button" android:layout_marginLeft="8dp"
+            android:id="@+id/showAllMealsButton" app:layout_constraintStart_toEndOf="@+id/pickMealButton" android:layout_marginLeft="8dp"
             android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
             android:layout_marginRight="8dp" app:layout_constraintHorizontal_bias="0.481"
             tools:text="@string/viewAll_button" android:layout_marginBottom="288dp"
